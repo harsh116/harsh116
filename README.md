@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projects:
+
+1. Youtube PlayList Downloader
+  https://github.com/harsh116/ytDownloader
+2. Dropzone
+  https://github.com/harsh116/Dropzone
