@@ -21,3 +21,5 @@ Here are some ideas to get you started:
   https://github.com/harsh116/ytDownloader
 2. Dropzone
   https://github.com/harsh116/Dropzone
+3. Media Mosaic
+  https://github.com/harsh116/Media_Mosaic
