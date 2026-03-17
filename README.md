@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## Projects:
 
-1. Youtube PlayList Downloader
-  https://github.com/harsh116/ytDownloader
+1. Discord Dump
+  [https://github.com/harsh116/ytDownloader](https://github.com/harsh116/discord_dump)
 2. Dropzone
   https://github.com/harsh116/Dropzone
 3. Media Mosaic
